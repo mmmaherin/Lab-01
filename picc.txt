@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en-US">
+	<head>
+		<title>
+		Pic
+		</title>
+	</head>
+	<body>
+	<img src="Zootopia-1-News.jpg" alt="Mountain View">
+	
+	</body>
+</html>
